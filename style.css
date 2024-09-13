@@ -83,6 +83,10 @@ h6 {
 	background: transparent;
 	z-index: 1030;
 }
+
+.img-responsive{
+	border-radius: 10px;
+}
 .navbar .active {
 	color: #ffaf53 !important;
 }
